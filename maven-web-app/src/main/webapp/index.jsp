@@ -4,7 +4,7 @@
 
 <a>Click Here To See Pythonlife Training Schedules</a>
   
-  <h2> Call Us : +91-966666666 </h2>
+  <h2> Call Us : +91-966665566 </h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
 <p> THANKS FOR CHOOSING devsecops WITH AWS !!!!!</p>
