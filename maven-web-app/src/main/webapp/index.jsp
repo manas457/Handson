@@ -8,7 +8,7 @@
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
 <p> THANKS FOR CHOOSING DEVOPSECOPS WITH AWS !!!!!</p>
-<marquee>!!!!LEARN HERE AND LEAD ANYWHERE!!!! </marquee>
+<marquee>!!!!LEARN here AND LEAD anywhere!!!! </marquee>
 
 
 </body>
