@@ -7,7 +7,7 @@
   <h2> Call Us : +91-966666666 </h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-<p> THANKS FOR CHOOSING DEVOPSECOPS WITH AWS !!!!!</p>
+<p> THANKS FOR CHOOSING devsecops WITH AWS !!!!!</p>
 <marquee>!!!!LEARN here AND LEAD anywhere!!!! </marquee>
 
 
